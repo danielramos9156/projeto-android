@@ -25,6 +25,8 @@ header {
     background-image: -moz-linear-gradient(#3ddc84, #063d1e);
     padding: 10px;
     margin-bottom: -20px;
+    margin-left: -10px;
+    margin-right: -10px;
     
 }
 header > h1 { 
@@ -91,11 +93,15 @@ iframe {
 main h1 {
     font-family: var(--android);
     background-image: -moz-linear-gradient(to right, #c5ebd6, #83e1ad00);
+    margin-left: -10px;
+    margin-right: -10px;
 }
 
 main h2 {
     font-family: var(--android);
     background-image: -moz-linear-gradient(to right, #c5ebd6, #83e1ad00);
+    margin-left: -10px;
+    margin-right: -10px;
 }
 
 aside > h4 {
